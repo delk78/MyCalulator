@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="divide_by_zero">Divided by Zero not allowed</string>
+    <string name="null_data">Please, enter data</string>
+    <string name="wrong_data">Please, enter data in right format</string>
+    <string name="wrong_operation">Please, check your operatoin - it shall be + - * /</string>
+    <string name="input_operation">"Input Operation</string>
+    <string name="input_1st">"Input First Number</string>
+    <string name="input_2nd">"Input Second Number</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Result">Result:</string>
+
+</resources>
